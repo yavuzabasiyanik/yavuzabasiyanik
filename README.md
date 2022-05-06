@@ -5,7 +5,7 @@
 
 I’m a passionate software engineer with the innovative and creative mindset of an entrepreneur. 
 
-I have knowledge and experience in building dynamic web applications using JavaScript, NodeJS, Express, React, Redux, CSS, Python, PostgreSQL, and Flask. I love all the processes in Software Development Life Cycle (SDLC) under Agile Project Management Methodology. I have a reputation for shipping quality code, being a strong pair, and working well across scrum teams. In addition, I (an awarded chess player) have the ability to work dependently on assigned tasks by creating my own strategies, etc.
+I have knowledge and experience in building dynamic web applications using JavaScript, NodeJS, Express, React, Redux, HTML, CSS, Python, PostgreSQL, and Flask. I love all the processes in Software Development Life Cycle (SDLC) under Agile Project Management Methodology. I have a reputation for shipping quality code, being a strong pair, and working well across scrum teams. In addition, I (an awarded chess player) have the ability to work dependently on assigned tasks by creating my own strategies, etc.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzabasiyanik&theme=monokai)](https://github.com/yavuzabasiyanik/github-readme-stats)
 
