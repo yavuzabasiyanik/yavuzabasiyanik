@@ -11,6 +11,13 @@ I have knowledge and experience in building dynamic web applications using JavaS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzabasiyanik&layout=compact&theme=monokai)](https://github.com/yavuzabasiyanik/github-readme-stats)
 
+
+- 📫 Contact Me:
+  abasiyanikyavuz@gmail.com
+  (312) 607-5021
+  
+  
+
 <!--
 **yavuzabasiyanik/yavuzabasiyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
