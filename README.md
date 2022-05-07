@@ -12,6 +12,8 @@ I have knowledge and experience in building dynamic web applications using JavaS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzabasiyanik&layout=compact&theme=monokai)](https://github.com/yavuzabasiyanik/github-readme-stats)
 
 
+You can also find me on:
+![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
 
 
 <!--
