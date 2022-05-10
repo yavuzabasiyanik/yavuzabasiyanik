@@ -14,7 +14,6 @@ I have knowledge and experience in building dynamic web applications using JavaS
 
 Languages and Technologies
 
-![image](https://user-images.githubusercontent.com/61038486/167563500-e70f2f6e-266a-453b-9552-f422ef46e792.png)
 
 <!--
 **yavuzabasiyanik/yavuzabasiyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
