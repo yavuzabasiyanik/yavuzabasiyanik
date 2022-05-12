@@ -31,13 +31,8 @@ Languages and Technologies
    <img src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png" style="width:50px;" />
 </div>
 
-<div>
-   
-   
-   
-   </div>
 
-
+&nbsp;&nbsp;&nbsp;
 Socials 📫:
 
 <div>
