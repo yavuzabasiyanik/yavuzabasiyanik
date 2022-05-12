@@ -36,7 +36,7 @@ I have knowledge and experience in building dynamic web applications using JavaS
 #### Socials 📫:
 
 <div>
-  <a href="https://www.linkedin.com/in/yavuzabasiyanik/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:50px;" /></a>
+  <a href="https://www.linkedin.com/in/yavuzabasiyanik/" target="_blank" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:50px;" /></a>
    <a href="https://angel.co/u/yavuzabasiyanik" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/angellist-512.png" style="width:50px;" /></a>
   
 </div>
