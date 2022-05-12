@@ -12,7 +12,7 @@ I have knowledge and experience in building dynamic web applications using JavaS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzabasiyanik&layout=compact&theme=monokai&hide=pug)](https://github.com/yavuzabasiyanik/github-readme-stats)
 
 
-Languages and Technologies
+###Languages and Technologies
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
@@ -33,7 +33,7 @@ Languages and Technologies
 
 
 
-Socials 📫:
+###Socials 📫:
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
