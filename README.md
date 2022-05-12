@@ -36,7 +36,7 @@ I have knowledge and experience in building dynamic web applications using JavaS
 #### Socials 📫:
 
 <div>
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:50px; margin:0 3320px" />
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:50px; margin:0 3320px;" />
    <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/angellist-512.png" style="width:50px;" />
   
 </div>
